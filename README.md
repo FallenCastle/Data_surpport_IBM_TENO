@@ -1,1 +1,1 @@
-Due to GitHub's data upload size limitations, the supporting data for this article is not available here. If needed, please contact us at chenzeyu@hnu.edu.cn.
+Due to GitHub's data upload size limitations, the supporting data for the article (An efficient sharp-interface immersed boundary method with TENO-based dissipation-adaptive a priori limiting for shock-obstacle interactions) is not available here. If needed, please contact us at chenzeyu@hnu.edu.cn.
